@@ -1,4 +1,7 @@
-# Indeed UK job market report
+## Update: Currently this code is not working due to the changes on the target website. Indeed uses redirection to enrcypted urls which requires further development in order to scrape.
+
+
+## Indeed UK job market report
 
 The aim of the repository is to create automatic current job market report based on web-scraping Python script. 
 Currently it may have bugs, but in the future it will be fixed and it will show a more comprehensive overview.
